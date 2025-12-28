@@ -9,3 +9,4 @@ export 'package:firebase_crashlytics/firebase_crashlytics.dart';
 export 'package:flutter/foundation.dart';
 export 'package:shared_preferences/shared_preferences.dart';
 export 'package:go_router/go_router.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
