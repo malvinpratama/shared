@@ -1,0 +1,11 @@
+export 'package:get_it/get_it.dart';
+export 'package:injectable/injectable.dart';
+export 'package:equatable/equatable.dart';
+export 'package:talker_flutter/talker_flutter.dart';
+export 'package:talker_bloc_logger/talker_bloc_logger.dart';
+export 'package:talker_bloc_logger/talker_bloc_logger_observer.dart';
+export 'package:talker_dio_logger/talker_dio_logger.dart';
+export 'package:firebase_crashlytics/firebase_crashlytics.dart';
+export 'package:flutter/foundation.dart';
+export 'package:shared_preferences/shared_preferences.dart';
+export 'package:go_router/go_router.dart';
