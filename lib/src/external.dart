@@ -8,7 +8,7 @@ export 'package:talker_dio_logger/talker_dio_logger.dart';
 export 'package:firebase_crashlytics/firebase_crashlytics.dart';
 export 'package:flutter/foundation.dart';
 export 'package:shared_preferences/shared_preferences.dart';
-export 'package:go_router/go_router.dart';
+export 'package:auto_route/auto_route.dart';
 export 'package:flutter_bloc/flutter_bloc.dart';
 export 'package:flutter_screenutil/flutter_screenutil.dart';
 export 'package:google_fonts/google_fonts.dart';
